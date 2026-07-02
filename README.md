@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- ✅ Solution URL: [Frontend Mentor solution](https://your-solution-url.com)
-- 🌐 Live Site URL: [GitHub Pages]()
+- ✅ Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/social-link-sharing-profile-cBXrf15Enx)
+- 🌐 Live Site URL: [GitHub Pages](https://swaandafj.github.io/social-links-profile-FrontendMentor/)
 
 ## My process
 
@@ -61,7 +61,7 @@ Going forward, I intend to:
 
 ## Author
 
-- 🌐 Website - [GitHub Pages]()
+- 🌐 Website - [GitHub Pages](https://swaandafj.github.io/social-links-profile-FrontendMentor/)
 - Frontend Mentor - [@swaandaFJ](https://www.frontendmentor.io/profile/swaandaFJ)
 - Twitter - [@swaan_dagwi](https://www.twitter.com/swaan_dagwi)
 - Instagram - [@swaandagwi](https://www.instagram.com/swaandagwi)

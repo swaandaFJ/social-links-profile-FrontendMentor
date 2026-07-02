@@ -43,11 +43,11 @@ a {
 /* main-body */
 .card {
     background-color: var(--grey800);
-    padding: 25px 25px 28px;
+    padding: 1.625rem 1.625rem 1.75rem;
     border-radius: 9px;
     text-align: center;
-    max-width: 100%;
-    width: 300px;
+    max-width: 19.4rem;
+    width: 100%;
 }
 
 .author img {
@@ -118,6 +118,6 @@ main .bio {
 
 @media(max-width: 500px) {
     .container{
-        padding: 0 30px;
+        padding: 0 1.88rem;
     }
 }
